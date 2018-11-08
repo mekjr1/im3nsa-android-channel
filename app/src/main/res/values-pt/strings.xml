@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Mensageiro</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="title_activity_home">RapidPro</string>
+    <string name="sync">Sincronizar</string>
+    <string name="no_secret">Não registrado</string>
+    <string name="menu_sync">Sincronizar</string>
+    <string name="menu_install_pack">Adicionar Pacotes SMS</string>
+    <string name="menu_dump_stats">Estatísticas de despejo</string>
+
+
+    <string name="icon_android">\ue00a</string>
+    <string name="icon_bubble">\ue060</string>
+    <string name="icon_bubble_dots">\ue05f</string>
+    <string name="icon_bubble_check">\ue061</string>
+    <string name="icon_bubble_bang">\ue062</string>
+    <string name="icon_bubble_right">\ue034</string>
+    <string name="icon_bubble_left">\ue033</string>
+    <string name="icon_bubble_person">\ue070</string>
+
+    <string name="icon_arrow_right">\ue036</string>
+    <string name="icon_arrow_left">\ue035</string>
+    <string name="icon_clock">\ue01f</string>
+
+
+    <string name="icon_envelope">\ue02b</string>
+    <string name="icon_contact_card">\ue02c</string>
+    <string name="icon_cog">\ue024</string>
+
+    <string name="icon_tower">\ue012</string>
+    <string name="icon_inbox">\ue074</string>
+    <string name="icon_outbox">\ue075</string>
+    <string name="icon_checked">\ue003</string>
+    <string name="icon_unchecked">\ue004</string>
+    <string name="icon_cloud">\ue095</string>
+    <string name="icon_call">\ue01c</string>
+    <string name="icon_throttle_okay">\ue028</string>
+    <string name="icon_throttle_warning">\ue029</string>
+    <string name="icon_throttle_danger">\ue07b</string>
+
+    <string name="icon_computer">\ue077</string>
+
+    <string name="title_dashboard_home">Paindel de Controle</string>
+    <string name="sample_outgoing_message"><b>5,232</b> mensagens na caixa de saida</string>
+    <string name="sample_last_sync">Última sincronização<b>5 minutes ago</b></string>
+    <string name="claim_direction">Você está a um passo.</string>
+    <string name="claim_code_title">Seu código de reivindicação</string>
+    <string name="claim_code_placeholder">123 GPY H26</string>
+    <string name="claim_instructions">Visite http://app.mensageiro.info para adicionar este telefone à sua conta.</string>
+    <string name="registering"><b>Registering</b>\nPlease wait a moment, contacting Mensageiro to register your device.</string>
+
+    <string name="no_gcm"><b>Connecting Google Account</b>\n\nThis may take a few minutes. Make sure you are connected to the internet and have an active Google account on your device.</string>
+    <string name="resetting"><b>Contacting Mensageiro</b>\n\nWe are contacting the Mensageiro server to remove this device from your account.</string>
+
+    <string name="throttle_title_ok">Aumente sua capacidade</string>
+    <string name="throttle_title_warning">Aviso de capacidade</string>
+    <string name="throttle_title_error">Capacidade atingida</string>
+
+    <string name="throttle_ok">Você enviou mensagens &lt;b&gt; SENT / CAPACITY &lt;/ b&gt; nos últimos minutos &lt;b&gt; MINUTES &lt;/ b&gt;.</string>
+    <string name="throttle_warning">Você enviou mensagens &lt;b&gt; SENT / CAPACITY &lt;/ b&gt; nos últimos minutos &lt;b&gt; MINUTES &lt;/ b&gt;. Quando você atingir o envio da capacidade de envio, ele será pausado devido aos limites do Android.</string>
+    <string name="throttle_error">Você enviou mensagens &lt;b&gt; SENT / CAPACITY &lt;/ b&gt; nos últimos minutos &lt;b&gt; MINUTES &lt;/ b&gt;. O envio de mensagens agora será interrompido por causa dos limites do Android.</string>
+    <string name="throttle_packs_remaining">Toque aqui para instalar um pacote de mensagens para aumentar sua capacidade. Você pode instalar &lt;b&gt; PACKS_REMAINING &lt;/ b&gt; mais packPACKS_PLURAL.</string>
+    <string name="throttle_no_packs_remaining">Você instalou o número máximo de pacotes. Se você precisar de mais, entre em contato com join@rapidpro.io.</string>
+    <string name="active_message">Mensageiro está ativo e retransmitindo mensagens para sua conta. Toque para pausar im3nsa.</string>
+    <string name="paused_message">Mensageiro está em pausa e não retransmite mensagens para a sua conta. Toque para retomar o im3nsa.</string>
+
+    <string name="network_error_message">Mensageiro é incapaz de se conectar à internet. Certifique-se de estar conectado ao Wi-Fi e de que seus dados móveis estejam ativados. Se os problemas persistirem, tente reiniciar o seu dispositivo.</string>
+    <string name="send_error_message">Mensageiro está com problemas para enviar mensagens SMS. Isso pode ser um problema temporário em sua rede ou pode ser uma indicação de que seu SIM está sem crédito. As mensagens serão repetidas, mas se os problemas persistirem, verifique o crédito do seu telefone ou tente reiniciar o dispositivo.</string>
+
+    <string name="permission_required_message">Para usar o Canal SMS do Android, todas as permissões solicitadas precisam ser concedidas. Clique Aqui Para Tentar Novamente.</string>
+    <string name="permission_send_message">Permite que o aplicativo envie mensagens</string>
+    <string name="permission_services">Permite que o aplicativo inicie seus serviços</string>
+
+    <string name="doze_warning">Para garantir a melhor experiência possível, clique aqui para garantir que as otimizações da bateria do im3nsa estejam desativadas.</string>
+    <string name="mensageiro_active">Mensageiro Active</string>
+    <string name="sending_errors">Sending Errors</string>
+    <string name="rapidpro_paused">Mensageiro foi Pausado</string>
+    <string name="increase_your_message_capacity">Aumente a sua capacidade de envio de sms</string>
+    <string name="your_claim_code">Your claim code</string>
+    <string name="nice_work_you_are_one_step_away">Nice work! You are one step away.</string>
+    
+    <string name="moments_ago">moments ago</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="network_error">Network Error</string>
+    <string name="battery_optimizations">Battery Optimizations</string>
+
+</resources>

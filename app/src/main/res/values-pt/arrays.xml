@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="servers">
+        <item> Endereco IP </item>
+        <item>Mensageiro</item>
+    </string-array>
+
+    <string-array name="servers_values">
+        <item>ip</item>
+        <item>35.227.122.135:80</item>
+    </string-array>
+
+    <string-array name="networks">
+        <item>WiFi</item>
+        <item>Dados Moveis</item>
+        <item>Sem Preferencia</item>
+    </string-array>
+
+    <string-array name="networks_values">
+        <item>wifi</item>
+        <item>dados</item>
+        <item>nenhum</item>
+    </string-array>
+
+</resources>

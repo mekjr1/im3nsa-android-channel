@@ -1,0 +1,3 @@
+<WakefulIntentService
+        listener="io.im3nsa.canalandroid.RapidProAlarmListener"
+        />

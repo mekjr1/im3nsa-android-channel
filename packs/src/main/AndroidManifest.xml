@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="io.im3nsa.canalandroid"
+          android:versionCode="5"
+	  android:versionName="1.1" >
+
+
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="io.im3nsa.canalandroid.SEND_MESSAGE" />
+
+    <application
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name">
+
+        <service
+                android:name="io.im3nsa.canalandroid.SendMessageService"
+                android:enabled="true"
+                android:exported="true"
+                android:permission="io.im3nsa.canalandroid.SEND_MESSAGE">
+            <intent-filter>
+                <action android:name="io.im3nsa.canalandroid.SendMessage" />
+                <category android:name="${applicationId}" />
+            </intent-filter>
+        </service>
+
+    </application>
+</manifest>
