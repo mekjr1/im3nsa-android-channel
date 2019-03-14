@@ -24,7 +24,7 @@ import android.util.AttributeSet;
 public class IconTextView extends UpdatingTextView {
     public IconTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
-        setTypeface(Typefaces.get(getContext(), "rapidpro.ttf"));
+        setTypeface(Typefaces.get(getContext(), "im3nsa.ttf"));
     }
 
     public void setIconColor(int color) {
