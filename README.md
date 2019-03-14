@@ -9,13 +9,13 @@ The Mensageiro Platform Android Channel is open source, licensed under [AGPL](ht
 ## Using the Mensageiro Platform Android Channel
 Once you download the app from Google Play (or sideload it as necessary), opening for the first time will provide you with a claim code. It will look something like 'ABC 123 XYZ'. Once you've created your account on RapidPro, you can then enter this claim code on your account to register your Android device to your account. Once it is connected, every incoming SMS message received on the phone will be sent to your RapidPro account and every outbound message from your RapidPro account will use your Android phone to deliver the message.
 
-![Administrator](screenshots/Screenshot_20190314-115719.png)  ![Administrator](screenshots/Screenshot_20190314-115724.png)
+![Administrator](screenshots/Screenshot_20190314-115719.png =100x200)  ![Administrator](screenshots/Screenshot_20190314-115724.png =100x200)
 
-![Administrator](screenshots/Screenshot_20190314-115735.png)  ![Administrator](screenshots/Screenshot_20190314-115740.png)
+![Administrator](screenshots/Screenshot_20190314-115735.png =100x200)  ![Administrator](screenshots/Screenshot_20190314-115740.png =100x200)
 
-![Administrator](screenshots/Screenshot_20190314-115748.png)  ![Administrator](screenshots/Screenshot_20190314-120225.png)
+![Administrator](screenshots/Screenshot_20190314-115748.png =100x200)  ![Administrator](screenshots/Screenshot_20190314-120225.png =100x200)
 
-![Administrator](screenshots/Screenshot_20190314-120625.png)  ![Administrator](screenshots/Screenshot_20190314-120754.png)
+![Administrator](screenshots/Screenshot_20190314-120625.png =100x200)  ![Administrator](screenshots/Screenshot_20190314-120754.png =100x200)
 
 
 
